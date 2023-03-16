@@ -1,1 +1,3 @@
-# Repositório para testes no git
+# Site dos Cursos
+
+Esse projeto é para testes de comandos git
